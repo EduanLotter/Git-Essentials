@@ -1,1 +1,1 @@
-new branch only shows up in the new branch
+new branch only shows up in the new branch and master
